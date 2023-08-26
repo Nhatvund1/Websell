@@ -1,0 +1,8 @@
+F:\LẬP TRÌNH\Nhapxuatcoban\Nhapxuatcoban\bin\Debug\Nhapxuatcoban.exe.config
+F:\LẬP TRÌNH\Nhapxuatcoban\Nhapxuatcoban\bin\Debug\Nhapxuatcoban.exe
+F:\LẬP TRÌNH\Nhapxuatcoban\Nhapxuatcoban\bin\Debug\Nhapxuatcoban.pdb
+F:\LẬP TRÌNH\Nhapxuatcoban\Nhapxuatcoban\obj\Debug\Nhapxuatcoban.csproj.AssemblyReference.cache
+F:\LẬP TRÌNH\Nhapxuatcoban\Nhapxuatcoban\obj\Debug\Nhapxuatcoban.csproj.SuggestedBindingRedirects.cache
+F:\LẬP TRÌNH\Nhapxuatcoban\Nhapxuatcoban\obj\Debug\Nhapxuatcoban.csproj.CoreCompileInputs.cache
+F:\LẬP TRÌNH\Nhapxuatcoban\Nhapxuatcoban\obj\Debug\Nhapxuatcoban.exe
+F:\LẬP TRÌNH\Nhapxuatcoban\Nhapxuatcoban\obj\Debug\Nhapxuatcoban.pdb
